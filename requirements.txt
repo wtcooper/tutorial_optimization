@@ -1,0 +1,12 @@
+# need to get cuda 11+ for my gpu: pip3 install torch --extra-index-url https://download.pytorch.org/whl/cu113
+# conda install swig
+
+Box2D
+box2d-kengz
+box2d-py
+gym[Box_2D]
+stable-baselines3[extra]
+
+evotorch
+# evojax[extra]
+# evosax
