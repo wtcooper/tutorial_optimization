@@ -1,2 +1,3 @@
-# tutorial_rl
-RL tutorials comparing frameworks
+# tutorial_optimization
+- RL and optimization tutorials comparing frameworks
+- emphasis here on black-box optimization problems using custom sims
